@@ -6,7 +6,7 @@ B.Sc - Computer Science and Mathematics student at Ariel University 2nd year.
 </i></p>
 
 <h4>📈 Github Stats:</h4>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlomi-Lantser&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
