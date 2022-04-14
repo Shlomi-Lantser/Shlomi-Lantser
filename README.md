@@ -3,7 +3,7 @@
 <p align="center"><i>
 Bs.c student at Ariel University
 <br>
-Computer Science and Math Student second year.
+Computer Science and Math Student 2nd year.
 </i></p>
 
 <!-- <p align="center">
