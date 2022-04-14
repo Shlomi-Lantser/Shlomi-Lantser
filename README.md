@@ -6,7 +6,7 @@
   </a>
   
   
-  I am junior SW Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Petah Tikva Israel.
+  I am junior SW Developer from Petah Tikva Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   
 </div>
 <!--
