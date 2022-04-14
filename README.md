@@ -18,7 +18,7 @@ Computer Science and Math Student 2nd year.
 </a>
 
 
-<h4 align="left">Languages, Databases and Tools:</h4>
+<h1 align="left">Languages, Databases and Tools:</h1>
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="35" height="35"/></a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="35" height="35"/></a>
@@ -34,7 +34,7 @@ Computer Science and Math Student 2nd year.
 <a href="" title="git"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="35" height="35"/>  </a>
 </p>
 
-<h4 align="left">IDE's, Code Editors and Programs:</h4>
+<h1 align="left">IDE's, Code Editors and Programs:</h1>
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
@@ -45,7 +45,7 @@ Computer Science and Math Student 2nd year.
 <a href="https://www.adobe.com/il_he/products/animate.html" target="animate"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/animate.svg" alt="animate" width="35" height="35"/></a>
 </p>
 
-<h4 align="left">Links:</h4>
+<h1 align="left">Links:</h1>
 <p align="center">
 <a href="https://github.com/kggold4"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="35" height="35"/></a>
 <a href="https://www.linkedin.com/in/shlomi-lantser-86859621b/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
