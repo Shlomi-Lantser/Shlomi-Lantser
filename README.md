@@ -1,9 +1,8 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Shlomi Lantser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 <p align="center"><i>
-Bs.c student at Ariel University
+Bs.c student at Ariel University 2nd year.
 <br>
-Bs.c Student 2nd year.
 </i></p>
 
 <h4>📈 Github Stats:</h4>
