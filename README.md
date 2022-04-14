@@ -5,10 +5,17 @@ Bs.c student at Ariel University
 <br>
 Computer Science and Math Student 2nd year.
 </i></p>
-
 <!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
 </p> -->
+
+<h1>📈 Github Stats:</h1>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlomi-Lantser&theme=slateorange&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shlomi-Lantser&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+</a>
 
 
 <h4 align="left">Languages, Databases and Tools:</h4>
