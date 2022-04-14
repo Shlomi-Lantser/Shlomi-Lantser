@@ -1,4 +1,4 @@
-<h1 align="center">Shlomi Lantser</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Shlomi Lantser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 <p align="center"><i>
 Bs.c student at Ariel University
