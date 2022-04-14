@@ -49,10 +49,5 @@ Computer Science and Math Student second year.
 <h4 align="left">Links:</h4>
 <p align="center">
 <a href="https://github.com/kggold4"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="35" height="35"/></a>
-<a href="https://www.linkedin.com/in/kfir-goldfarb/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
-<a href="https://stackoverflow.com/users/14749277/kfir-goldfarb"> <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" alt="stackoverflow" width="35" height="35"/></a>
-<a href="https://www.hackerrank.com/kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" alt="Hackerrank" width="35" height="35"/></a>
-<a href="https://replit.com/@kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it" width="35" height="35"/></a>
-<a href="https://www.youtube.com/channel/UCypEWlruyG_I5A48GqB5c6g"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="50.4" height="35"/></a>
-
+<a href="https://www.linkedin.com/in/shlomi-lantser-86859621b/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
 </p>
