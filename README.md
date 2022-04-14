@@ -22,6 +22,7 @@ Computer Science and Math Student second year.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css-3" width="35" height="35"/></a>
 <a href="https://www.mysql.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="35" height="35"/></a>
 <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/linux-tux.svg" alt="linux" width="35" height="35"/></a>
+<a href="https://www.figma.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/></a>
 
 </p>
 
