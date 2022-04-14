@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Shlomi Lantser <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
 <p align="center"><i>
-Bs.c student at Ariel University 2nd year.
+B.Sc - Computer Science and Mathematics student at Ariel University 2nd year.
 <br>
 </i></p>
 
