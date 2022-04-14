@@ -43,6 +43,6 @@ B.Sc - Computer Science and Mathematics student at Ariel University 2nd year.
 
 <h4 align="left">Links:</h4>
 <p align="center">
-<a href="https://github.com/kggold4"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="35" height="35"/></a>
+<a href="https://github.com/shlomi-lantser"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="35" height="35"/></a>
 <a href="https://www.linkedin.com/in/shlomi-lantser-86859621b/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
 </p>
