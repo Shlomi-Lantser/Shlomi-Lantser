@@ -17,6 +17,7 @@ Computer Science and Math Student second year.
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="35" height="35"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="35" height="35"/></a>
 <a href="https://www.cplusplus.com/" title="C++"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="35" height="35"/>  </a>
+<a href="" title="C#"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>  </a>
 <a href="https://developer.mozilla.org/he/docs/Web/JavaScript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/he/docs/Web/HTML"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="html-5" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css-3" width="35" height="35"/></a>
